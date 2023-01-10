@@ -1,0 +1,4 @@
+java.io.IOException: AAAAAAAAAAAAAH
+	at test.GUItest.main(GUItest.java:22)
+java.io.IOException: AAAAAAAAAAAAAH
+	at test.GUItest.main(GUItest.java:22)

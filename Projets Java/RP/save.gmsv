@@ -1,0 +1,20 @@
+Characters
+Arina;18;18;80;60;40;30;30;5;1
+Shii;17;17;80;70;30;40;40;10;1
+Celine;21;21;55;70;55;25;25;2;1
+Gudbrand;24;24;60;50;70;20;20;2;1
+Items
+Arina;light Mage Outfit;Outfit;1;0
+Arina;sachel with magic onyx;Outfit;1;0
+Arina;Territory;Spell;5;0;Misc;0
+Shii;enticing Outfit;Outfit;1;0
+Shii;Psycho Poulpy;Pet;10
+Celine;Black Saber;Weapon;1;7d2;Agi
+Celine;Knight Medalion;Outfit;1;0
+Celine;Light Armor;Outfit;1;3
+Gudbrand;Heavy Armor;Outfit;1;8
+Gudbrand;Heavy Shield;Outfit;1;0
+Gudbrand;Sword;Weapon;1;6d2;Str
+Status Effects
+Arina;Mana;50
+Arina;ManaRegen;2
